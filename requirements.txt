@@ -5,3 +5,5 @@ synapseclient~=2.5.0
 setuptools~=49.2.1
 PyYAML~=5.4.1
 pyarrow~=3.0.0
+pybiomart~=0.2.0
+mygene~=3.2.2
